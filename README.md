@@ -63,7 +63,9 @@ Future Enhancements
 
 5.Advanced filtering for HRs
 
+
 Team:
+
 Hephzibah Magizhini – Frontend Development
 
 Kamakshi – Backend & AI Integration
